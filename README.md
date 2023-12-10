@@ -15,4 +15,4 @@ The Bike landinding page was created using the following technologies:
 
 ## Preview Link
 
-[DEMO LINK](https://ydashko/bike-store-landing/)
+[DEMO LINK](https://ydashko.github.io/bike-store-landing/)
