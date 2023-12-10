@@ -1,7 +1,6 @@
 .info {
   &__title {
     margin-bottom: 8px;
-
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
@@ -14,9 +13,11 @@
     line-height: 22px;
     color: $color-white;
     text-decoration: none;
+    position: relative;
+    transition: color 0.3s ease;
 
     &:hover {
-      text-decoration: none;
+      color: grey;
     }
   }
 }
