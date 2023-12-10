@@ -1,4 +1,4 @@
-# Miami landing page
+# Bike store lnding
 
 ## Project Description
 
@@ -15,4 +15,4 @@ The Bike landinding page was created using the following technologies:
 
 ## Preview Link
 
-[DEMO LINK](https://ydashko.github.io/bike-store-landing/)
+[DEMO LINK]()
