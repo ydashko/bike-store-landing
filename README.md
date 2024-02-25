@@ -1,4 +1,4 @@
-# Bike store lnding
+# Bike store landing
 
 ## Project Description
 
